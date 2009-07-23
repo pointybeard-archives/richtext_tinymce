@@ -2,10 +2,10 @@
 Rich Text (TinyMCE) Text Formatter
 ------------------------------------
 
-Version: 1.0
+Version: 1.01
 Author: Symphony Team (http://symphony21.com)
-Build Date: 25th Mar 2008
-Requirements: Symphony Beta revision 5 or greater.
+Build Date: 23rd July 2009
+Requirements: Symphony 2.0 or greater.
 
 
 [INSTALLATION]
@@ -20,6 +20,11 @@ Requirements: Symphony Beta revision 5 or greater.
 4. Edit/Create a section and specify the text formatter "Rich Text (TinyMCE)" 
    for the textarea fields you wish to enable the TinyMCE WYSIWYG editor for.
 
+
+[CHANGE LOG]
+
+	1.01 - Small code cleanup
+	
 
 [CUSTOMISATION]
 
