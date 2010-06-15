@@ -16,9 +16,3 @@ tinyMCE.init({
 	theme_advanced_buttons3        : "",
 	entities                       : ""
 });
-
-DOM.Event.addListener(window, "load", function() {
-	DOM.select("div[class^=mceeditor]").forEach(function(div) {
-		div.style.marginTop = "2px"; // Fix styles
-	});
-});
